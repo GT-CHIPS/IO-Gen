@@ -33,7 +33,7 @@ Download all the file in this repository and execute run_spice_ffix.sh. Several 
 - tx_esd: Whether an ESD on driver side is used. 0 means no ESD is used and 1 means ESD is used.
 - rx_esd: Whether an ESD on receiver side is used. 0 means no ESD is used and 1 means ESD is used.
 - esd_size: Size of ESD if ESD is used. Should be integer. 1 is the minimum size of ESD.
-- add_c4: Whether microbump is included in physical link.
+- add_c4: Whether microbump is included in physical link. 0 means no bump is used and 1 means bump is used.
 - case: The type of interposer that is used. 1,2,3 interposers are available in different physical dimensions.
 
 ## Contact
