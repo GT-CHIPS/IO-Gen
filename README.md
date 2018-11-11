@@ -1,6 +1,8 @@
 # Automated I/O Generation Tool
 
 ## Introduction
+![alt text](overview_figure.jpg)
+
 This tool is to automatically generate I/O driver and receiver for a physical link between two dies integrated in System-in-Package. The physical link includes drvier/receiver, interposer, ESD protection, microbump, etc. For a given size of transceiver, corresponding propagation delay/energy consumption values are generated.
 
 This work was supported by the DARPA CHIPS program.
